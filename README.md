@@ -19,4 +19,4 @@ Bienvenido al índice de eventos. Aquí encontrarás una lista de eventos con en
 
 ### Track 02
 - **Título:** "GraphQL at Scale"
-- **Diapositivas:** [Ver diapositivas](00/01_ELCA_TechDays_GraphQL_at_Scale_JUG.pdf)
+- **Diapositivas:** [Ver diapositivas](01/01_ELCA_TechDays_GraphQL_at_Scale_JUG.pdf)
